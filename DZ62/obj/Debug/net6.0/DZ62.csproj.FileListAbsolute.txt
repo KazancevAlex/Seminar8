@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Seminar8\DZ62\bin\Debug\net6.0\DZ62.exe
+C:\Users\DNS\Desktop\Seminar8\DZ62\bin\Debug\net6.0\DZ62.deps.json
+C:\Users\DNS\Desktop\Seminar8\DZ62\bin\Debug\net6.0\DZ62.runtimeconfig.json
+C:\Users\DNS\Desktop\Seminar8\DZ62\bin\Debug\net6.0\DZ62.dll
+C:\Users\DNS\Desktop\Seminar8\DZ62\bin\Debug\net6.0\DZ62.pdb
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\DZ62.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\DZ62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\DZ62.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\DZ62.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\DZ62.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\DZ62.dll
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\refint\DZ62.dll
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\DZ62.pdb
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\DZ62.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Seminar8\DZ62\obj\Debug\net6.0\ref\DZ62.dll
